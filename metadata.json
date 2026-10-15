@@ -1,0 +1,6 @@
+{
+  "name": "LadySimulados",
+  "description": "Plataforma 100% aberta e gratuita de simulados para ENEM, Provão Paulista, SARESP, FUVEST, OBMEP, OBA, SISU e Concursos sem necessidade de login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
